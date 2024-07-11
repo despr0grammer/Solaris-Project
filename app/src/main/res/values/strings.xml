@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SolarisProject</string>
+    <string name="contact_icon_desc">Icono de Contacto</string>
+    <string name="profile">Perfil</string>
+    <string name="store">Tienda</string>
+    <string name="contacts">Contactos</string>
+    <string name="settings">Configuración</string>
+    <string name="emergencies">Emergencias</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="clp_price_format">Total: $%s CLP</string>
+    <string-array name="filter_options">
+        <item>Diario</item>
+        <item>Mensual</item>
+        <item>Anual</item>
+    </string-array>
+    <string-array name="months">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+    <string-array name="user_type_options">
+        <item>Propietario</item>
+        <item>Administrador</item>
+        <item>Inversionista</item>
+        <item>Preocupado por el Medio Ambiente</item>
+    </string-array>
+
+
+</resources>

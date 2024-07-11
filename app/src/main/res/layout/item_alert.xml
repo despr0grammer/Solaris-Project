@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#1E1E1E"
+    android:layout_marginBottom="8dp">
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alerta"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:id="@+id/textViewDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Descripción de la alerta"
+        android:textSize="14sp"
+        android:textColor="#CCCCCC"
+        android:layout_marginTop="4dp"/>
+
+    <TextView
+        android:id="@+id/textViewSeverity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Severidad"
+        android:textSize="14sp"
+        android:textColor="#FF0000"
+        android:layout_marginTop="4dp"/>
+</LinearLayout>
